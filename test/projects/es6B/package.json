@@ -1,0 +1,8 @@
+{
+  "name": "es6B",
+  "version": "1.0.0",
+  "dependencies": {
+    "es6A": "1.0.0",
+    "cjsB": "1.0.0"
+  }
+}
